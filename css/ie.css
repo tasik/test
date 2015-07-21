@@ -1,0 +1,18 @@
+.text{
+	.opacity {
+    zoom:1;
+    background:#000;
+    filter:alpha(opacity=50);
+   }
+   
+   .opacity * {
+    position:relative;
+}
+
+.no_border{
+	border:none !important;
+}
+
+.no_padding_top{
+	padding-top:none !important;
+}
